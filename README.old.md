@@ -35,15 +35,15 @@ A dynamic and interactive React web app that visualizes classic pathfinding algo
 /src
 
 ├── algorithms/
-|
+
 │ ├── bfs.js
-|
+
 │ ├── dfs.js
-|
+
 │ ├── dijkstra.js
-|
+
 │ └── aStar.js
-|
+
 │
 
 ├── components/
