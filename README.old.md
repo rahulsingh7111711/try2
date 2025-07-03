@@ -33,22 +33,39 @@ A dynamic and interactive React web app that visualizes classic pathfinding algo
 ## 📂 Project Structure
 
 /src
+
 ├── algorithms/
+
 │ ├── bfs.js
+
 │ ├── dfs.js
+
 │ ├── dijkstra.js
+
 │ └── aStar.js
+
 │
+
 ├── components/
+
 │ ├── Grid.js
+
 │ ├── Node.js
+
 │ └── ...
+
 │
+
 ├── mazes/
+
 │ └── recursiveDivision.js
+
 │
+
 ├── constants.js
+
 ├── App.js
+
 └── index.js
 
 
