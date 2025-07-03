@@ -1,0 +1,45 @@
+.node {
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  border: 1px solid #ddd;
+  transition: background-color 0.3s ease;
+}
+
+.node-wall {
+  background-color: #263238;
+}
+
+.node-start {
+  background-color: #43a047;
+}
+
+.node-end {
+  background-color: #e53935;
+}
+
+.node-visited {
+  background-color: #bbdefb;
+}
+
+.node-shortest-path {
+  background-color: #fdd835;
+}
+
+@keyframes visitedAnim {
+  from {
+    background-color: white;
+  }
+  to {
+    background-color: lightblue;
+  }
+}
+
+@keyframes pathAnim {
+  from {
+    background-color: white;
+  }
+  to {
+    background-color: yellow;
+  }
+}
