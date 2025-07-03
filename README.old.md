@@ -2,8 +2,6 @@
 
 A dynamic and interactive React web app that visualizes classic pathfinding algorithms in action! Built to help understand the inner workings of algorithms like BFS, DFS, Dijkstra, and A*, this project is ideal for learning, showcasing, and impressing.
 
-![Visualizer Screenshot](./preview.png)
-
 ---
 
 ## 🚀 Features
